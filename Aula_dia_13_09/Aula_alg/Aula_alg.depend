@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1726269211 source:c:\gabriel\faculdade\algoritmo\aula_dia_13_09\aula_alg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
