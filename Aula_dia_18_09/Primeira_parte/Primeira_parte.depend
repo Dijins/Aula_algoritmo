@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1726701392 source:c:\gabriel\faculdade\algoritmo\aula_dia_18_09\primeira_parte\main.c
+	<stdio.h>
+	<stdlib.h>
+
